@@ -1,6 +1,11 @@
+import string
+
+
 def check_pangram(text):
-    text = text.split()
-    return True or False
+    text = {l for l in set(text.lower()) if l in string.ascii_letters}
+    print(text)
+    return len(text) == 26
+
 
 if __name__ == '__main__':
     # These "asserts" using only for self-checking and not necessary for auto-testing
