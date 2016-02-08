@@ -1,3 +1,3 @@
 #Checkio puzzles 
 
-Follow [checkio.org](http://www.checkio.org) for details.
+Please check [checkio.org](http://www.checkio.org) for details.
