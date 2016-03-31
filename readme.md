@@ -1,2 +1,2 @@
 #Checkio puzzles 
-You can check [https://checkio.org](checkio.org) for details.
+You can check [checkio.org](https://checkio.org) for details.
