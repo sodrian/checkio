@@ -28,13 +28,9 @@ def most_frequent_days(year):
             lst[dt.weekday()] += 1
         dt = dt + timedelta(days=1)
 
-    print(lst)
-
     indexes = get_all_maxes_indexes(lst)
-    print(indexes)
-
     ret = [WEEKDAYS[i] for i in indexes]
-    print(ret)
+
     return ret
 
 
