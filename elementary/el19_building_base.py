@@ -1,6 +1,3 @@
-from decimal import Decimal
-
-
 class Building(object):
     def __init__(self, south, west, width_WE, width_NS, height=10):
         self.south = south
@@ -39,7 +36,6 @@ class Building(object):
 
 
 if __name__ == '__main__':
-    #These "asserts" using only for self-checking and not necessary for auto-testing
     def json_dict(d):
         return dict((k, list(v)) for k, v in d.items())
 
