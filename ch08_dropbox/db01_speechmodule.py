@@ -1,9 +1,12 @@
-FIRST_TEN = ["one", "two", "three", "four", "five", "six", "seven",
-             "eight", "nine"]
-SECOND_TEN = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
-              "sixteen", "seventeen", "eighteen", "nineteen"]
-OTHER_TENS = ["twenty", "thirty", "forty", "fifty", "sixty", "seventy",
-              "eighty", "ninety"]
+FIRST_TEN = [
+    "one", "two", "three", "four", "five", "six", "seven",
+    "eight", "nine"]
+SECOND_TEN = [
+    "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+    "sixteen", "seventeen", "eighteen", "nineteen"]
+OTHER_TENS = [
+    "twenty", "thirty", "forty", "fifty", "sixty", "seventy",
+    "eighty", "ninety"]
 HUNDRED = "hundred"
 
 
